@@ -1,2 +1,7 @@
-# Ithaca-Apple-Harvest-Festival
-Class design project by Mae Zhao from INFO 2300 at Cornell University. Dynamic/responsive site in PHP. Contains design journey in /documents that tracks the design progress of the project.
+# Project 1
+
+See the course site for the project's requirements.
+
+# Submission Instructions
+
+Stage, commit, and push your changed files. Then complete the submission form: <https://cornell.ca1.qualtrics.com/jfe/form/SV_ekRwrDA4MccYt0O>
