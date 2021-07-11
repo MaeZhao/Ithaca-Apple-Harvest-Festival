@@ -16,7 +16,7 @@ My existing site is intended to assist Ithaca Apple Fest attendees find, learn a
 
 > How and where did you create this site?
 
-I created this site in HTML for INFO 1300. The website is entirely static.
+I created this site in HTML for INFO 1300. The website was entirely static.
 
 > Is this site designed for desktop, mobile devices or both?
 
